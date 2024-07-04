@@ -8,5 +8,5 @@ Then you can easily run it using spyder.
 
 I only tested it using Linux, but Mac and Windows should work as well.
 
-Note: Some parts don't work right now. For example when searching for crit chance and crit damage sets you don't get any results. I'll be working on a fix once i have more time.
+Note: Some parts don't work right now. For example when searching for crit chance and crit damage sets you don't get any results and i want a different outlay. I'll be working on a fix once i have more time.
 
